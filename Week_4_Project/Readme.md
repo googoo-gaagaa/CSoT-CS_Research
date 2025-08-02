@@ -1,3 +1,5 @@
-## Report
+## Report (Updating still)
 
-- Still figuring out loading and understanding the dataset. Will update complete project soon
+_Problems Faced_
+- It took me a lot of time to load the dataset as the format was too new to me. Post some GPTing and googling I got to know how to load the dataset.
+- 
